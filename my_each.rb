@@ -4,7 +4,7 @@ def my_each(collection)
   while i<collection.length
     i=i+1
   collection.map do |i|
-    i
+    puts i
 end
 end
 end
