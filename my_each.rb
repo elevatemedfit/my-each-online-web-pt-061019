@@ -6,6 +6,5 @@ def my_each(collection)
   collection.map do |i|
      i
 end
-puts i
 end
 end
