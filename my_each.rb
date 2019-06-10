@@ -7,3 +7,4 @@ def my_each(collection)
     i
 end
 end
+end
